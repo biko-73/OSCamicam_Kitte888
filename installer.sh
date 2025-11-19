@@ -12,7 +12,7 @@
 
 PACKAGE_DIR='OSCamicam_Kitte888/main'
 
-MY_IPK="enigma2-plugin-softcams-oscamicamnew_11868-ICAMEMU-Kitte888-V13Rev_all.ipk"
+MY_IPK="enigma2-plugin-softcams-oscamicamnew_11886-ICAMEMU-Kitte888-V14Rev_all.ipk"
 MY_DEB="enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.deb"
 
 ########################################################################################################################
